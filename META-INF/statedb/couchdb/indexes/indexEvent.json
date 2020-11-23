@@ -1,0 +1,10 @@
+{
+	"index":{
+		"fields":[
+			"cdleventid"
+		]
+	},
+	"name":"indexEvent",
+	"ddoc":"indexEventDoc",
+	"type":"json"
+}

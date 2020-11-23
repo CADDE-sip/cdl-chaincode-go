@@ -1,0 +1,11 @@
+{
+	"index":{
+		"fields":[
+			"cdluri",
+			"cdlsha256hash"
+		]
+	},
+	"name":"indexUriHash",
+	"ddoc":"indexUriHashDoc",
+	"type":"json"
+}
